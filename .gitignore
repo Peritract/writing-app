@@ -2,3 +2,4 @@
 .venv
 .vs_code
 *.json
+__pycache__
