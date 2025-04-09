@@ -4,6 +4,7 @@ from json import load, dump
 from uuid import uuid4
 from datetime import datetime
 
+
 def load_all_entries(filename: str = "data.json") -> list[dict]:
     """Returns entries from a data file."""
 
