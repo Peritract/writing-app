@@ -1,0 +1,5 @@
+pytest
+pylint
+flask
+psycopg2
+python-dotenv
